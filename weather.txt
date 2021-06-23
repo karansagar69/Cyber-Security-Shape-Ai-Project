@@ -1,0 +1,1 @@
+Current temperature is: 28.29 deg CCurrent weather desc :hazeCurrent Humidity :59 % Current wind speed : 2.57 kmph 
